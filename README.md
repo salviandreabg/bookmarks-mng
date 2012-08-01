@@ -1,0 +1,4 @@
+bookmarks-mng
+=============
+
+Bookmarks manager
